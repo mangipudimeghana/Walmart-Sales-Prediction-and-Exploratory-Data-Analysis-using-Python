@@ -1,4 +1,4 @@
-# Walmart-Sales-Prediction-and-Exploratory-Data-Analysis-using-Python
+# Walmart sales Prediction and Exploratory Data Analysis using Python
 
 # Problem Statement
 
